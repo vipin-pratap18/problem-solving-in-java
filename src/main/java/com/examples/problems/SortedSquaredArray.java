@@ -57,7 +57,7 @@ public class SortedSquaredArray {
             a[i] = Integer.parseInt(array1[i]);
         }
 
-        int[] result = sortedSquaredArray(a);
+        int[] result = sortedSquaredArrayV1(a);
         Arrays.stream(result).forEach(System.out::println);
     }
 }
