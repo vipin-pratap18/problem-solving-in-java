@@ -1,6 +1,5 @@
-package com.examples.problems;
+package com.mislproblems;
 
-import java.io.InputStream;
 import java.util.Arrays;
 import java.util.Scanner;
 

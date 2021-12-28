@@ -16,6 +16,7 @@ HELP.md
 *.iws
 *.iml
 *.ipr
+workspace.code-workspace
 
 ### NetBeans ###
 /nbproject/private/

@@ -1,4 +1,4 @@
-package com.examples.problems;
+package com.mislproblems;
 
 /*
  * Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements.
@@ -58,6 +58,6 @@ public class MoveZerosToEnd {
         for(int a: output){
             System.out.print(a + " ");
         }
-        System.out.print(" ]");
+        System.out.print("]");
     }
 }

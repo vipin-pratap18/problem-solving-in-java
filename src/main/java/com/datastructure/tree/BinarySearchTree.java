@@ -1,4 +1,4 @@
-package com.examples.tree;
+package com.datastructure.tree;
 
 import java.util.LinkedList;
 import java.util.List;

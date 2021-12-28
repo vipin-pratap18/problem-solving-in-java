@@ -1,5 +1,4 @@
-package com.examples.problems;
-import java.io.*;
+package com.mislproblems;
 import java.util.*;
 
 /*
